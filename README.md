@@ -24,11 +24,11 @@ gene.csv: input file, example in gene.csv
 qgrs_exec_filepath: qgrs executable file path, default is The built-in qgrs executable, please specific it if it not work
 ```
 
-## output
+## Output
 By default, output is in res folder, temporary files is in tmp folder. The implication of column is showed on column title, the last 6 column is the output for qgrs-cpp, please refer to https://github.com/freezer333/qgrs-cpp for more informations.
 
 
-## requirements
+## Requirements
 ```
 library(GenomicRanges)
 library(BSgenome.Hsapiens.UCSC.hg38)
