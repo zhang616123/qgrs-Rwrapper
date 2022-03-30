@@ -1,5 +1,5 @@
 # qgrs-Rwrapper
-A R wrapper for qgrs-cpp which is a C++ implementation of QGRS mapping algorithm published by freezer333 on https://github.com/freezer333/qgrs-cpp. This project support a R wrapper that allow analysis possible G4 structure in transcript from a specific gene list. It also provide a executable file of qgrs-cpp on win64.
+A R wrapper for qgrs-cpp. The latter is a C++ implementation of QGRS mapping algorithm published by freezer333 on https://github.com/freezer333/qgrs-cpp. This project support a R wrapper that allow analysis possible G4 structure in transcript from a specific gene list. It also provide a executable file of qgrs-cpp on win64.
 
 The original papers:
 
