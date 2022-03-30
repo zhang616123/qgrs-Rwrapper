@@ -130,7 +130,7 @@ run_qgrs <- function(gr, trans_id,
   writeLines(trans_seqFull, fileConn)
   close(fileConn)
   print(trans_id)
-  cmd <- paste0("powershell", qgrsExecPath, " -i ", tmpFile, " | ", grepExecPath, " -v ID")
+  #cmd <- paste0("powershell", qgrsExecPath, " -i ", tmpFile, " | ", grepExecPath, " -v ID")
   #print(cmd)
   cmd_res <- system(paste0(qgrsExecPath, " -i ", tmpFile), 
          intern = TRUE)%>%
