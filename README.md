@@ -21,7 +21,7 @@ The following command line options are supported:
 ```
 regionType: fiveUTR, threeUTR, cds
 gene.csv: input file, example in gene.csv
-qgrs_exec_filepath: qgrs executable file path, default is The built-in qgrs executable, specific it is it not work
+qgrs_exec_filepath: qgrs executable file path, default is The built-in qgrs executable, please specific it if it not work
 ```
 
 ## output
