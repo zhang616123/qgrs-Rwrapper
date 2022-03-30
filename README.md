@@ -25,7 +25,7 @@ qgrs_exec_filepath: qgrs executable file path, default is The built-in qgrs exec
 ```
 
 ## output
-By default, output is in res folder, temporary files is in tmp folder. The implication of column is showed on column title, the last 6 column is the output for qgrs-cpp, please refer to (https://github.com/freezer333/qgrs-cpp) for more informations.
+By default, output is in res folder, temporary files is in tmp folder. The implication of column is showed on column title, the last 6 column is the output for qgrs-cpp, please refer to https://github.com/freezer333/qgrs-cpp for more informations.
 
 
 ## requirements
