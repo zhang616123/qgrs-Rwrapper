@@ -12,7 +12,7 @@ The original papers:
 Rscript G4_analysis.R [regionType] [gene.csv] [qgrs_exec_filepath]
 ```
 
-The code hasbeen tested on Windows.
+The code has been tested on Windows.
 
 ## Arguments
 
